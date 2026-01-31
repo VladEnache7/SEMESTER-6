@@ -1,0 +1,35 @@
+commit a3a162fb98169a532315b8f5b91224e886064b76
+tree 8188baa8c2bed7a8b77181af3560c9ba685a7564
+parent e0e4f989ddbadaa8977fb31e5e1eec6d989bb38a
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 14:15:21 +0300
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 14:15:21 +0300
+
+    Rename test 2
+
+
+:100644 100644 2a7aff1ccbef091ad0f2b86cc81c27da1dae24da 3f91bcfbb8d69e67faacd656f9e25d97ec5d0338 R099	src/test/java/AppTest.java	src/test/java/TestAddAssignment.java
+commit e0e4f989ddbadaa8977fb31e5e1eec6d989bb38a
+tree ac31bce9ec15607383986959a8ae3d5a655c01c5
+parent 97f38808e84409bddb390314e925f13ee3dba556
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 14:14:06 +0300
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 14:14:06 +0300
+
+    Rename tests
+
+
+:100644 100644 a80df295a37d006333dff5c5e43b4b165604bc3b 2a7aff1ccbef091ad0f2b86cc81c27da1dae24da R099	src/test/java/TestAddAssignment.java	src/test/java/AppTest.java
+:100644 100644 9fd7e42ed691de62741c0dcf89e59ff7a3138328 df9fd0a71248745d9c23950cb3c4e356a56c1beb M	src/test/java/TestAddStudent.java
+commit 97f38808e84409bddb390314e925f13ee3dba556
+tree a404fa08a97070420f998fad6dc9088a36cfd9ce
+parent 3082752b0cd72a744158881adde58a3697287dc5
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 14:09:24 +0300
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 14:09:24 +0300
+
+    Add tests for AddAssignment feature
+
+
+:000000 100644 0000000000000000000000000000000000000000 2b63946d5b31084bbb7dda418ceb3d75eb686373 A	.idea/uiDesigner.xml
+:100644 100644 59ab0148827db1a9f7fb49a71c41f32fe89e5e3c b43b89263b2cc3306ceee35a5517e692d0fa765a M	src/main/java/repository/AbstractCrudRepository.java
+:100644 100644 43e992920bcd413815a3a006f4c25839e3496c8e d0ea41f95a38c5b4da074e6b5e72cecc91717aa2 M	src/main/java/validation/StudentValidator.java
+:000000 100644 0000000000000000000000000000000000000000 a80df295a37d006333dff5c5e43b4b165604bc3b A	src/test/java/TestAddAssignment.java
+:100644 100644 2bc1efec8c34e978431d57f21422749eef43a643 9fd7e42ed691de62741c0dcf89e59ff7a3138328 R094	src/test/java/AppTest.java	src/test/java/TestAddStudent.java

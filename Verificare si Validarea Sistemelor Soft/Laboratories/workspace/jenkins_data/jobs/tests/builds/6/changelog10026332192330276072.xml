@@ -1,0 +1,10 @@
+commit b3caa9993d264108d0ae48057e8258cdde3187b1
+tree 46ab9d393d7e8b46b4b20d72588bc6eb626b9b99
+parent 48f53499b3d2cb047d993ccd87b8b8438eebe9a7
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-31 22:02:21 +0300
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-31 22:02:21 +0300
+
+    Update tests
+
+
+:100644 100644 c038472e725133e6172bcd2573c8a3191b916cbe b442040d1b1119b3341717d4526d645dcb2d0b6f M	src/test/java/AppTest.java

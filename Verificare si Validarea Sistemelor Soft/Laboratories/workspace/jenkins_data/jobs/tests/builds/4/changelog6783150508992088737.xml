@@ -1,0 +1,10 @@
+commit 3f8ac32982b066ee173b207e470da1df29d264d6
+tree 6b8dd1876d309dfb19e7fb04538b36e47d4c95ca
+parent 3f6b503bcb6497e9b451106b4f0e952cd123f30c
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-18 11:16:29 +0200
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-18 11:16:29 +0200
+
+    Removed ZeroGroup Test case
+
+
+:100644 100644 ea01c7920d55348a0223947aec4a0131522a6c64 94f2b7d137a0c0c0e24743cb7929cb354483556e M	src/test/java/AppTest.java

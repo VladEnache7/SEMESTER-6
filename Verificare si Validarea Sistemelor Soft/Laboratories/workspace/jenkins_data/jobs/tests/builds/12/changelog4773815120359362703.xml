@@ -1,0 +1,10 @@
+commit e09363773ca6d09ef809827f419dafed2db16832
+tree 16ab46d266067d29a01d54c254582f56c4874811
+parent ba4fb43bf94dcf15712b3ef6288a86fb13a2ed48
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 17:11:56 +0300
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 17:11:56 +0300
+
+    Update tests
+
+
+:100644 100644 c6c17ab0c0d686e3623f865ab4d0e564c26da293 cb07fc2b03332013836d03f335f3d1f9522ee4a8 M	src/test/java/TestAddAssignment.java

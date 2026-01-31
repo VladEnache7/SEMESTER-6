@@ -1,0 +1,10 @@
+commit 48f53499b3d2cb047d993ccd87b8b8438eebe9a7
+tree a6f15e6b21e93b5a9eb33b154fb6c221b25c1f81
+parent 3f8ac32982b066ee173b207e470da1df29d264d6
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-31 21:38:15 +0300
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-31 21:38:15 +0300
+
+    Added EC Test Cases
+
+
+:100644 100644 94f2b7d137a0c0c0e24743cb7929cb354483556e c038472e725133e6172bcd2573c8a3191b916cbe M	src/test/java/AppTest.java

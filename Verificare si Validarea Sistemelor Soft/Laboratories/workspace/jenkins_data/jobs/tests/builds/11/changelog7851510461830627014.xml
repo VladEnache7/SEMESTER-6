@@ -1,0 +1,11 @@
+commit ba4fb43bf94dcf15712b3ef6288a86fb13a2ed48
+tree 5fb2f8af9b513d8005d001ff60b1a3e532f95e1c
+parent a3a162fb98169a532315b8f5b91224e886064b76
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 17:06:53 +0300
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-04-07 17:06:53 +0300
+
+    Update tests
+
+
+:100644 100644 3f91bcfbb8d69e67faacd656f9e25d97ec5d0338 c6c17ab0c0d686e3623f865ab4d0e564c26da293 M	src/test/java/TestAddAssignment.java
+:100644 100644 df9fd0a71248745d9c23950cb3c4e356a56c1beb 325b1e0432e6be30f9a101165a9ba089cee3b5b5 M	src/test/java/TestAddStudent.java

@@ -1,0 +1,12 @@
+commit a9017a78881981ea1be8f3730801fdadfd1ea767
+tree 931978c0f30fd554a2652f1fe092f067f2c1d349
+parent af302d1fd3e1a7109eb9efc6a508ecc3a070d0be
+author Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-18 10:07:51 +0200
+committer Vlad Enache <ioan.vlad.enache@stud.ubbcluj.ro> 2025-03-18 10:07:51 +0200
+
+    Add Tests for Students & Homeworks
+
+
+:100644 100644 df00c07daf8a5aee0fb7669470d739c79f1ccce7 d583332b57c60f6dba6c2e23c78c3e8830be8899 M	.idea/misc.xml
+:000000 100644 0000000000000000000000000000000000000000 35eb1ddfbbc029bcab630581847471d7f238ec53 A	.idea/vcs.xml
+:000000 100644 0000000000000000000000000000000000000000 8d2e923623c2d66aa53d211a6093f3a84df6c0c4 A	src/test/java/AppTest.java
